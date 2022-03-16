@@ -10,7 +10,7 @@ public class SimpleBot {
         remindName();
         guessAge();
         count();
-        test();cd Si
+        test();
         end();
     }
 
